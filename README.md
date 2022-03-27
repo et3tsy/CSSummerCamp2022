@@ -20,7 +20,7 @@
 
 [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
-# 计算机保研交流群
+# 保研交流群
 
 **全国最大非商业用爱交流计算机保研交流群**（QQ群号：605176069）
 
