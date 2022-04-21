@@ -10,6 +10,10 @@
 
 【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
 
+# 中国人民大学
+
+【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)
+
 # 西湖大学
 
 【报名截止: 2022.6.20】[西湖大学2022年暑期夏令营](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202204/t20220411_19774.shtml)
@@ -17,6 +21,8 @@
 # 中国科学院大学
 
 ~~【报名截止: 2022.3.31】[中国科学院自动化研究所2022年“人工智能菁英班”项目](http://www.ia.cas.cn/yjsjy/zs/sszs/202203/t20220321_6401496.html)~~
+
+【报名截止: 2022年五月份左右开始联系，请尽早】 [中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/2022/04/11/recruit/)
 
 # 天津大学
 
