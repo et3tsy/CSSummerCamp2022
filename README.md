@@ -4,7 +4,17 @@
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/Alpha-Yang/CS-BAOYAN-2022)。
 
 # 清华大学
-【报名截止: 2022.4.24】[清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)
+~~【报名截止: 2022.4.24】[清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)~~
+
+【报名截止：2022.5.19】[清华大学交叉信息研究院2022年优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2022/)
+
+# 北京大学
+【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
+
+# 复旦大学
+【报名截止：2022.5.31】[复旦大学计算机科学技术学院2022年全国优秀大学生夏令营](https://cs.fudan.edu.cn/bf/99/c24257a442265/page.htm)
+
+【报名截止：2022.5.31】[复旦大学大数据学院2022年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/bf/72/c17701a442226/page.htm)
 
 # 南京大学
 
@@ -24,11 +34,21 @@
 
 【报名截止: 2022年五月份左右开始联系，请尽早】 [中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/2022/04/11/recruit/)
 
+# 中国科学技术大学
+
+【报名截止：2022.6.30】[中国科学技术大学“优秀大学生夏令营” 活动通知](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)
+
 # 天津大学
 
 【报名截止: 2022.6.30】[天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
 
+# 电子科技大学
 
+【报名截止：2022.6.30】[电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名](https://www.iffs.uestc.edu.cn/info/1032/4765.htm?themecolor=111111)
+
+# 中国科学院上海高等研究院
+
+【报名截止：2022.6.17】[中国科学院上海高等研究院 “梦筑高研” 2022年大学生暑假夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202204/t20220424_6437240.html)
 
 # 致谢
 
