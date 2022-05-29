@@ -4,29 +4,44 @@
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/Alpha-Yang/CS-BAOYAN-2022)。
 
 # 清华大学
+
 ~~【报名截止: 2022.4.24】[清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)~~
 
-【报名截止：2022.5.19】[清华大学交叉信息研究院2022年优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2022/)
+~~【报名截止：2022.5.19】[清华大学交叉信息研究院2022年优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2022/)~~
 
 【报名截止：2022.6.9】[清华大学第五届（2022年）“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
 
 # 北京大学
+
 【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
 
+【报名截止：2022.6.30】[北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
+
+【报名截止：2022.6.16】[北京大学智能学院关于举办2022年优秀大学生夏令营的通知](https://www.cis.pku.edu.cn/info/1034/1817.htm)
+
+【报名截止：2022.6.24】[北京大学软件与微电子学院2022年全国优秀大学生夏令营通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)
+
+【报名截止：2022.6.16】[北京大学计算机学院关于举办2022年优秀大学生夏令营的通知](https://cs.pku.edu.cn/info/1023/3442.htm)
+
 # 复旦大学
+
 【报名截止：2022.5.31】[复旦大学计算机科学技术学院2022年全国优秀大学生夏令营](https://cs.fudan.edu.cn/bf/99/c24257a442265/page.htm)
 
 【报名截止：2022.5.31】[复旦大学大数据学院2022年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/bf/72/c17701a442226/page.htm)
 
 # 南京大学
 
-【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
+【报名截止: 2022.6.10】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 【报名截止: 2022.6.20】[南京大学计算机科学与技术系2022年本科生开放日报名通知](https://cs.nju.edu.cn/b0/eb/c1654a569579/page.htm)
 
+【报名截止: 2022.6.16】[人工智能学院2022年本科生开放日报名通知](https://ai.nju.edu.cn/b1/64/c17810a569700/page.htm)
+
+【报名截止：2022.6.20】[南京大学软件学院2022年优秀大学生夏令营通知](https://software.nju.edu.cn/tzgg/20220527/i223082.html)
+
 # 中国人民大学
 
-【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)
+~~【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)~~
 
 【报名截止: 2022.6.10】[中国人民大学高瓴人工智能学院](https://mp.weixin.qq.com/s/xGEd_mRczxnNNVVa0LRPxQ)
 
@@ -38,7 +53,11 @@
 
 ~~【报名截止: 2022.3.31】[中国科学院自动化研究所2022年“人工智能菁英班”项目](http://www.ia.cas.cn/yjsjy/zs/sszs/202203/t20220321_6401496.html)~~
 
+【报名截止: 2022.6.30】[中国科学院自动化研究所2022年“人工智能”大学生暑期学校招生通知](https://mp.weixin.qq.com/s/DBzm8hKXGIavwMq7st44Vw)
+
 【报名截止: 2022年五月份左右开始联系，请尽早】 [中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/2022/04/11/recruit/)
+
+【报名截止: 2022.6.25】[2022年SIAT优秀大学生学术夏令营招生简章----中国科学院深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202205/t20220524_6453480.html)
 
 # 中国科学技术大学
 
@@ -52,6 +71,18 @@
 
 【报名截止：2022.6.30】[电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名](https://www.iffs.uestc.edu.cn/info/1032/4765.htm?themecolor=111111)
 
+# 四川大学
+
+【报名截止：2022.6.10】[四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)
+
+# 上海交通大学
+
+【报名截止：2022.6.27】[上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
+
+【报名截止：2022.6.26】[上海交通大学“2022软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=21216)
+
+【报名截止：2022.6.26】[【优才选拔】上海交大电院 2023级研究生优秀生源选拔活动通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/34470.htm)
+
 # 中国科学院上海高等研究院
 
 【报名截止：2022.6.17】[中国科学院上海高等研究院 “梦筑高研” 2022年大学生暑假夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202204/t20220424_6437240.html)
@@ -64,6 +95,10 @@
 
 【报名截止：2022.5.31】[2022年吉林大学计算机科学与技术学院 优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1091/16122.htm)
 
+【报名截止：2022.6.5】[吉林大学软件学院2022年全国优秀大学生 暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/5701.htm)
+
+【报名截止：2022.6.15】[人工智能学院关于举办2022年优秀大学生夏令营的通知](https://sai.jlu.edu.cn/info/1065/3349.htm)
+
 # 兰州大学
 
 【报名截止：2022.6.5】[兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)
@@ -71,6 +106,48 @@
 # 华东师范大学
 
 【报名截止：2022.6.12】[华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051120179966143823)
+
+【报名截止：2022.6.19】[计算机科学与技术学院 2022 年优秀大学生夏令营活动招生公告](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051320132001150608)
+
+【报名截止：2022.6.12】[数据科学与工程学院第十届 云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051920140103103429)
+
+# 中国海洋大学
+
+【报名截止：2022.6.20】[关于举办2022年中国海洋大学信息学部“优秀大学生夏令营”活动的通知](https://it.ouc.edu.cn/2022/0518/c21608a370713/page.htm)
+
+# 南开大学
+
+【报名截止：2022.6.24】[【夏令营】关于举办2022年南开大学“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
+
+# 同济大学
+
+【报名截止：2022.6.15】[2022年同济大学电子与信息工程学院优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1147/10142.htm)
+
+# 厦门大学
+
+【报名截止：2022.6.15】[2022年厦门大学信息学院（特色化范性软件学院）优秀大学生夏令营招生简章](https://informatics.xmu.edu.cn/info/1050/20229.htm)
+
+# 北京师范大学
+
+【报名截止：2022.6.26】[北京师范大学人工智能学院 2022年优秀大学生夏令营](https://cist.bnu.edu.cn/tzgg/130692.html)
+
+# 华东理工大学
+
+【报名截止：2022.6.20】[【招生】华东理工大学信息科学与工程学院2022年全国大学生暑期夏令营通知](https://cise.ecust.edu.cn/2022/0526/c7692a144888/page.htm)
+
+# 中南大学
+
+【报名截止：2022.6.9】[关于举办“中南大学2022年优秀大学生暑期夏令营”活动的通知](https://gra.csu.edu.cn/info/1012/38183.htm)
+
+【报名截止：2022.6.9】[计算机学院关于举办2022年优秀大学生暑期夏令营活动的通知](https://cse.csu.edu.cn/info/1040/6387.htm)
+
+# 中山大学
+
+【报名截止：2022.6.26】[中山大学软件工程学院2022年全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/279)
+
+# 深圳大学
+
+【报名截止：2022.7.8】[首届深圳大学全国优秀大学生计算机夏令营（2023级）](https://mp.weixin.qq.com/s/HRkDcSwfDQGTuTsIcgKcnQ)
 
 # 致谢
 
